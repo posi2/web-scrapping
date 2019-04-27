@@ -16,11 +16,13 @@ Find out the programing problem statement give on the website CodingBat in stand
 
 ![alt text](CodingBatPython.png)
 
-warmup section following problem
+
+
+**1. warmup section following problem**
 
 ![alt text](CodingBatPythonWarmup-1.png)
 
-problem statement
+**2. problem statement**
 
 ![alt text](CodingBatPythonWarmup-1sleep_in.png)
 
