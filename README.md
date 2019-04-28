@@ -27,3 +27,11 @@ Find out the programing problem statement give on the website CodingBat in stand
 ![alt text](CodingBatPythonWarmup-1sleep_in.png)
 
 **Tool Used** : Beautiful Soup
+
+### Customer Review
+ 
+Scrap the customer review of product from flipkart. 
+
+![alt text](customer_review.png)
+
+
