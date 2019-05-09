@@ -30,7 +30,7 @@ Find out the programing problem statement give on the website CodingBat in stand
 
 ### Customer Review:
  
-Scrap the customer review of product from flipkart. 
+Seaarch the product in the flipkart get the customer review of product in the text file. 
 
 ![alt text](customer_review.png)
 
