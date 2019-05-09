@@ -34,6 +34,15 @@ Seaarch the product in the flipkart get the customer review of product in the te
 
 ![alt text](customer_review.png)
 
-**Tool Used** : Beautiful Soup
+**Tool Used** : Beautiful Soup, Selenium
+
+ **Approach** :
+  1. Connect webdriver with e-commerce website ex flipkart using selenium
+  2. Using different syntax to redirect to all review page of product
+  3. With beatuiful soup extract the all the reviews in a page.
+  4. Since Url contain only change in page no. using this move to next page and do same.
+  6. To get large input requirement of the session the code.
+  7. Save the review in the text file.
+
 
 
